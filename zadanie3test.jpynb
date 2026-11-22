@@ -1,0 +1,15 @@
+import matplotlib.pyplot as plt
+
+# Przykładowa lista liczb
+liczby = [12, 14, 18, 22, 67, 68, 6900, 3000]
+
+# Tworzenie histogramu
+plt.hist(liczby, bins=12, color='skyblue', edgecolor='black')
+
+# Opisy osi i tytuł
+plt.title('Histogram przykładowych liczb')
+plt.xlabel('Przedziały wartości')
+plt.ylabel('Liczba wystąpień')
+
+# Wyświetlenie wykresu
+plt.show()
