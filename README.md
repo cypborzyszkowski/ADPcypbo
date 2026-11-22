@@ -8,7 +8,12 @@ Dzisiaj jest [date] 22.11.2026.
 Dzisiaj za oknem [Temperature]
 Kolejny test
 
+lalalala
+Kolejny test
+zaczynam konflikt
+
 Tutaj planujemy KONFLIKT w linijce nr 11 plik readme [tu miała być emotka diabła]
 conflict
 conflictos
 końflikt
+
