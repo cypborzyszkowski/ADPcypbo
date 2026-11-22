@@ -1,0 +1,15 @@
+import matplotlib.pyplot as plt
+
+
+numeros = [1, 1.1, 1.2, 1.4, 2.2, 4.4, 3.3 ,2.3, 2.7]
+
+# Tworzenie histogramu
+plt.hist(numeros, bins=7, color='skyblue', edgecolor='black')
+
+# Opisy osi i tytuł
+plt.title('Histogram przykładowych numerosów')
+plt.xlabel('Przedziały wartości')
+plt.ylabel('Liczba wystąpień')
+
+# Wyświetlenie wykresu
+plt.show()
