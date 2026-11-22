@@ -1,2 +1,3 @@
 # ADPcypbo
-Repozytorium testowe
+Repozytorium testowe.
+To jest test pierwszego commita.
